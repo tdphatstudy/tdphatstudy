@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working with **Ruby on Rails**, **ReactJS**, **Python**.
 - 🌱 I’m exploring **Next.js**, **NestJS**, and performance optimization techniques
+- 💼 I have **2+ years of experience** in full-stack web development, building products from scratch to production
 - 🧠 Passionate about building developer-friendly systems with a strong focus on **architecture**, **clean code**, and **scalability**
 - 🚀 I enjoy turning complex problems into elegant solutions
 
@@ -15,6 +16,7 @@
 ### 🌍 Languages and Tools
 
 - **Languages**:
+
   
   <img align="left" alt="Ruby" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
   <img align="left" alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -24,6 +26,8 @@
   <img align="left" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   <img align="left" alt="CSS3" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
+<br />
+<br />
 
 - **Tools**:
 
@@ -40,8 +44,9 @@
   <img align="left" alt="Linux" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img align="left" alt="GraphQL" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" />
   <img align="left" alt="Express" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<br />
 
-
+---
 
 ### 🛠 Tech Stack
 
