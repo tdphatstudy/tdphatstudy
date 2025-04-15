@@ -14,24 +14,34 @@
 
 ### 🌍 Languages and Tools
 
-- **Languages**: 
+- **Languages**:
+  
   <img align="left" alt="Ruby" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
   <img align="left" alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
   <img align="left" alt="TypeScript" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+  <img align="left" alt="Python" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>
   <img align="left" alt="SQL" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="left" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   <img align="left" alt="CSS3" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
+
 - **Tools**:
+
   <img align="left" alt="Rails" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" />
   <img align="left" alt="React" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img align="left" alt="Redux" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
   <img align="left" alt="Node.js" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="left" alt="Docker" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
   <img align="left" alt="Git" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
+  <img align="left" alt="FastAPI" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
+  <img align="left" alt="AWS" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="left" alt="Postgres" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="left" alt="Redis" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
+  <img align="left" alt="Linux" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img align="left" alt="GraphQL" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" />
+  <img align="left" alt="Express" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 
 
----
 
 ### 🛠 Tech Stack
 
