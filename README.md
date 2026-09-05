@@ -1,86 +1,162 @@
-<h1 align="center">Hi there 👋, I'm Tran Dai Phat</h1>
-<h3 align="center">A full-stack developer who loves building clean and scalable apps with Ruby on Rails & ReactJS</h3>
-
----
-
-### 🧑‍💻 About Me
-
-- 🔭 I’m currently working with **Ruby on Rails**, **ReactJS**, **Python**.
-- 🌱 I’m exploring **Next.js**, **NestJS**, and performance optimization techniques
-- 💼 I have **2+ years of experience** in full-stack web development, building products from scratch to production
-- 🧠 Passionate about building developer-friendly systems with a strong focus on **architecture**, **clean code**, and **scalability**
-- 🚀 I enjoy turning complex problems into elegant solutions
-
----
-
-### 🌍 Languages and Tools
-
-- **Languages**:
-
-  
-  <img align="left" alt="Ruby" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"/>
-  <img align="left" alt="JavaScript" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-  <img align="left" alt="TypeScript" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-  <img align="left" alt="Python" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"/>
-  <img align="left" alt="HTML5" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-  <img align="left" alt="CSS3" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-
-<br />
-<br />
-
-- **Tools**:
-
-  <img align="left" alt="Rails" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" />
-  <img align="left" alt="React" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-  <img align="left" alt="Redux" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-  <img align="left" alt="Node.js" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="left" alt="Docker" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-  <img align="left" alt="Git" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
-  <img align="left" alt="FastAPI" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
-  <img align="left" alt="AWS" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="left" alt="Postgres" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="left" alt="SQL" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="left" alt="Redis" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
-  <img align="left" alt="Linux" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  <img align="left" alt="GraphQL" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" />
-  <img align="left" alt="Express" width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
-<br />
-
----
-
-### 🛠 Tech Stack
-
-#### 🖥 Backend
-- Ruby on Rails (ActiveRecord, Devise, Pundit, RSpec, Sidekiq)
-- PostgreSQL / MySQL / Redis
-- REST APIs / GraphQL
-- JWT / OAuth2 / Firebase Authentication
-
-#### 🌐 Frontend
-- ReactJS (Hooks, Redux, TailwindCSS)
-- Next.js / Zustand / SWR / React Query
-
-#### ☁ DevOps & Tools
-- Docker, Heroku, Vercel
-- GitHub Actions, GitLab CI/CD
-- Cloudinary, S3, Active Storage
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Tran Dai Phat</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tdphatstudy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdphatstudy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <strong>Full-Stack Software Engineer</strong><br/>
+  Ruby on Rails · React · TypeScript · Python
+</p>
+
+<p align="center">
+  Building scalable, maintainable, and production-ready web systems.
+</p>
+
+<p align="center">
+  <a href="mailto:tdphat.study@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/tdphat/">LinkedIn</a>
 </p>
 
 ---
 
-### 📫 Get in Touch
+## About
 
-- 📧 Email: [tdphat.study@gmail.com](mailto:tdphat.study@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/tdphat/](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/tdphat/)
+I'm a Full-Stack Software Engineer focused on designing and building reliable web applications from product requirements to production.
+
+My primary stack is **Ruby on Rails and React**, with experience across backend architecture, frontend applications, databases, authentication systems, background processing, CI/CD, and cloud infrastructure.
+
+I care about engineering beyond simply making features work — particularly **system design, maintainability, performance, observability, and developer experience**.
+
+Currently exploring deeper topics around **distributed systems, application performance, Next.js, NestJS, and modern infrastructure**.
 
 ---
 
-<p align="center">Let's build cool things together! 💻🚀</p>
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,nodejs,nestjs,fastapi,graphql" />
+</p>
+
+* Ruby on Rails
+* Node.js / NestJS
+* Python / FastAPI
+* RESTful APIs / GraphQL
+* Background Jobs & Asynchronous Processing
+* Authentication & Authorization
+* OAuth 2.0 / JWT
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
+</p>
+
+* React
+* Next.js
+* TypeScript / JavaScript
+* Redux / Zustand
+* React Query / SWR
+* Tailwind CSS
+
+### Data & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,linux,git,github,gitlab" />
+</p>
+
+* PostgreSQL / MySQL
+* Redis
+* Docker
+* AWS
+* Linux
+* GitHub Actions / GitLab CI/CD
+* S3 / Cloudinary / Active Storage
+
+---
+
+## Engineering Focus
+
+```text
+System Design            █████████████████░░░
+Backend Architecture     ██████████████████░░
+API Design               ██████████████████░░
+Frontend Architecture    ████████████████░░░░
+Database Design          █████████████████░░░
+DevOps & CI/CD           ███████████████░░░░░
+Performance              ████████████████░░░░
+```
+
+Areas I'm particularly interested in:
+
+* Designing maintainable application architectures
+* Building scalable APIs and backend services
+* Database modeling, indexing, and query optimization
+* Authentication, authorization, and OAuth integrations
+* Background processing and asynchronous workflows
+* Application performance and reliability
+* CI/CD and production deployment
+* Developer tooling and engineering productivity
+
+---
+
+## How I Build
+
+```text
+Requirements
+     ↓
+Domain & Data Modeling
+     ↓
+System / API Design
+     ↓
+Implementation
+     ↓
+Testing & Code Review
+     ↓
+CI/CD
+     ↓
+Production
+     ↓
+Monitoring & Optimization
+```
+
+I prefer simple architectures that can evolve with the product rather than introducing complexity prematurely.
+
+My engineering principles:
+
+**Clarity over cleverness** · **Measure before optimizing** · **Automate repetitive work** · **Design for change** · **Own the system in production**
+
+---
+
+## GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=tdphatstudy&show_icons=true&hide_border=true&theme=transparent"
+    alt="Tran Dai Phat's GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdphatstudy&layout=compact&hide_border=true&theme=transparent"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="mailto:tdphat.study@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tdphat.study%40gmail.com-333333?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/tdphat/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tran%20Dai%20Phat-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Building software that is easier to understand, operate, and evolve.</sub>
+</p>
